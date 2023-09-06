@@ -1,0 +1,49 @@
+continuous integration e continuous delivery
+________________________________________________________________
+oq rendezira na tela: .tsx
+o que é feito embaixo dos panos .tsx
+______________________________________
+tudo que estiver entre {} é objeto
+_________________________
+parametro = propriedade
+_____________________
+(function) em algumas linguagens é conhecida como metodo ou classe
+________________________________________________________________
+classe x interface (Props)
+
+Classe:
+
+Define a estrutura e o comportamento de um componente.
+Usada para criar componentes baseados em classes.
+Pode incluir métodos e estado.
+Props (Propriedades):
+
+São atributos passados para um componente.
+Permitem que dados sejam transmitidos de um componente pai para um filho.
+São somente leitura e configuram a aparência/comportamento do componente.
+____________________
+
+
+Em linguagens de programação como Java e C#, <T> é uma convenção usada 
+para denotar um tipo genérico. Esse "T" é uma abreviação que pode ser 
+substituída por qualquer identificador válido. Por exemplo, em Java,
+ você pode ver declarações de método como:
+
+------------------------------------
+java
+Copy code
+public <T> T minhaFuncao(T parametro) {
+    // Corpo da função
+} 
+------------------------------------------
+Neste caso, <T> indica que a função é genérica e pode trabalhar com qualquer tipo de dado. 
+O tipo específico a ser usado será determinado quando a função é chamada. Por exemplo, você pode chamar minhaFuncao(5) 
+ou minhaFuncao("Olá"), e o tipo T será substituído pelo tipo real dos argumentos.
+
+O uso de tipos genéricos, como <T>, torna o código mais flexível e reutilizável, pois permite que você escreva funções 
+e classes que funcionem com diferentes tipos de dados sem a necessidade de duplicar código.
+________________________________________________________________
+CTRL + SPACE = Ve tudo oq tem dentro do objeto
+________________________________________________________________
+Pra fazer com que uma props seja opcional adicione um ponto de interrogação (?)
+________________________________________________________________________________
