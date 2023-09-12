@@ -12,23 +12,20 @@ ________________________________________________________________
 classe x interface (Props)
 
 Classe:
-
 Define a estrutura e o comportamento de um componente.
 Usada para criar componentes baseados em classes.
 Pode incluir métodos e estado.
-Props (Propriedades):
+Props 
 
+Propriedades:
 São atributos passados para um componente.
 Permitem que dados sejam transmitidos de um componente pai para um filho.
 São somente leitura e configuram a aparência/comportamento do componente.
-____________________
-
-
+______________________________________________________
 Em linguagens de programação como Java e C#, <T> é uma convenção usada 
 para denotar um tipo genérico. Esse "T" é uma abreviação que pode ser 
 substituída por qualquer identificador válido. Por exemplo, em Java,
  você pode ver declarações de método como:
-
 ------------------------------------
 java
 Copy code
@@ -46,4 +43,34 @@ ________________________________________________________________
 CTRL + SPACE = Ve tudo oq tem dentro do objeto
 ________________________________________________________________
 Pra fazer com que uma props seja opcional adicione um ponto de interrogação (?)
-________________________________________________________________________________
+_____________________________________________________________
+PokéAPi (api gratuita)
+_____________________________________________________________
+Protocolos http
+
+(GET
+POST 
+PUT (UPDATE)
+DELETE
+PATCH
+OPTIONS)
+
+C|reate (POST)
+R|ead (GET)
+U|pdate (PUT)
+D|elete (DELETE)
+________________________________________________________________
+laços de repetição e laços de condição
+________________________________________________________________
+json é um objeto com informações de texto 
+________________________________________________________________
+HTTPS é uma implementação do protocolo HTTP sobre uma camada 
+adicional de segurança que utiliza o protocolo TLS/SSL. 
+________________________________________________________________
+Query parameters - 
+________________________________________________________________
+todo objeto recebe chave e valor 
+________________________________________________________________
+async gera promise 
+promise = promessa de dados
+____________________________________________________________

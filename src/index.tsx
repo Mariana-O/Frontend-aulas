@@ -1,21 +1,21 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-//import App from './components/app/App';
-//import Navbar from './components/navbar/Navbar';
 import reportWebVitals from './reportWebVitals';
-import Footer from './components/footer/footer';
+//import Navbar from './components/navbar/Navbar';
+//import Cidades from './utils/cities';
+import Card from './components/card/Card';
+
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
   <React.StrictMode>
-    {/* <App /> */}
-    <Footer 
-    titulo = "Bom dia"
-    item = "tenha um bom dia"
-    />
+    {/* <Navbar
+     item1='Bom dia'
+     item2={5}/>  */}
+     <Card/>
   </React.StrictMode>
 );
 
