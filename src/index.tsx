@@ -4,7 +4,8 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 //import Navbar from './components/navbar/Navbar';
 //import Cidades from './utils/cities';
-import Card from './components/card/Card';
+//import Card from './components/card/Card';
+import Imagem from './components/imagem/Imagem';
 
 
 const root = ReactDOM.createRoot(
@@ -15,7 +16,7 @@ root.render(
     {/* <Navbar
      item1='Bom dia'
      item2={5}/>  */}
-     <Card/>
+     <Imagem/>
   </React.StrictMode>
 );
 
