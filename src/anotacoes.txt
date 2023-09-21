@@ -74,3 +74,8 @@ ________________________________________________________________
 async gera promise 
 promise = promessa de dados
 ____________________________________________________________
+innerHTML n usa () pois n aceita parametros
+__________________________________________________________
+CTRL + ALT (seleciona varias linhas)
+______________________________________________________
+CTRL + BOTÕES DIRECIONAIS (move o conteudo da linha selecionada pra cima ou pra baixo)

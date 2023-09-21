@@ -1,0 +1,10 @@
+.input {
+    max-height: 20%;
+    margin:10% 10%;
+    display: flex;
+    flex-direction: column;
+}
+
+.numberUpdaterId {
+    max-width: 30%;
+}
